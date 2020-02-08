@@ -17,3 +17,5 @@
               09/2007 to 06/2012 - Belorusian National Technical University - Faculty of Management Technologies and Humanitarian - Packaging process / Engineer-designer
               HTML Academy - HTML/CSS courses - https://htmlacademy.ru/profile/id142139
               Codeacademy - HTML/CSS courses, Javascript courses - https://www.codecademy.com/users/natalliabirytskaya/achievements
+8. English: A2/B1
+            Skyeng online school - course General English, level Intermediate - Grade A (excellent)
