@@ -5,11 +5,12 @@
    skype: natalliadubovets
 3. I'm interested in web development. Since this is my second specialty, I know how important self development is. And studying hard is as important as talent. 
 4. Core skills: HTML(HTML5), CSS(CSS3), SASS/SCSS, BEM methodology - intermediate,
-                Javascript - basic,
+                Javascript, jQuery - basic,
                 Git - intermediate,
                 Webpack - novice,
                 React JS - novice,
-                Ruby, PHP, MySQL - novice
+                Ruby, PHP, MySQL - novice,
+                Adobe Photoshop, Adobe Illustrator - basic
 5. Experience: DayOneCredit - https://dayonecredit.com/ - website markup
                Philately - https://philately.app/ru - landing markup
                Rubyroidlabs site - https://rubyroidlabs.com/ - maintenance and support, markup, javascript
