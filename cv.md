@@ -13,3 +13,7 @@
 5. Experience: DayOneCredit - https://dayonecredit.com/ - website markup
                Philately - https://philately.app/ru - landing markup
                Rubyroidlabs site - https://rubyroidlabs.com/ - maintenance and support, markup, javascript
+7. Education: 10/2016 to 04/2018 - Belarusian State University of Informatics and Radioelectronics - Faculty of Continuing Education and Retraining - Web-design and computer graphics / Programmer-web-designer
+              09/2007 to 06/2012 - Belorusian National Technical University - Faculty of Management Technologies and Humanitarian - Packaging process / Engineer-designer
+              HTML Academy - HTML/CSS courses - https://htmlacademy.ru/profile/id142139
+              Codeacademy - HTML/CSS courses, Javascript courses - https://www.codecademy.com/users/natalliabirytskaya/achievements
