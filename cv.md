@@ -10,3 +10,6 @@
                 Webpack - novice,
                 React JS - novice,
                 Ruby, PHP, MySQL - novice
+5. Experience: DayOneCredit - https://dayonecredit.com/ - website markup
+               Philately - https://philately.app/ru - landing markup
+               Rubyroidlabs site - https://rubyroidlabs.com/ - maintenance and support, markup, javascript
