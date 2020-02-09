@@ -10,10 +10,7 @@
 }
 
 .header-contacts {
-    font-size: 1.6rem;
-    line-height: 2.2rem;
     background-color: var(--highlight-bg-color);
-    color: var(--highlight-text-color);
 }
 
 .header-title {

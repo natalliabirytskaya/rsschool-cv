@@ -1,0 +1,24 @@
+.contacts {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.contacts-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.contacts-icon {
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-right: 10px;
+}
+
+.contacts-text {
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    font-weight: 300;
+    color: var(--highlight-text-color);
+}
