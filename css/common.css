@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+html {
+    font-size: 10px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    font-family: var(--font-main);
+    background-color: var(--main-bg-color);
+    font-weight: 400;
+}
+
+.main {
+    flex: 1 0 auto;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+@media (max-width: 1084px) {
+    .wrapper {
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 797px) {
+    .wrapper {
+        padding: 0 15px;
+    }
+}

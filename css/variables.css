@@ -1,0 +1,14 @@
+:root {
+    --font-main: "roboto", sans-serif;
+    --color-white: #FFFFFF;
+    --color-black: #2e3841;
+    --color-blue: #2172d0;
+    --color-grey: #F5F5F5;
+    --main-text-color: var(--color-black);
+    --highlight-text-color: var(--color-white);
+    --main-bg-color: var(--color-grey);
+    --highlight-bg-color: var(--color-blue);
+    --shadow-color: rgba(0, 0, 0, 0.16);
+    --tablet: 1024px;
+    --mobile: 767px;
+}
