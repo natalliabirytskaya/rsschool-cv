@@ -7,7 +7,8 @@
     font-size: 1.6rem;
     line-height: 4.8rem;
     text-align: center;
-    background-color: var(--shadow-color);
+    border-top: 2px solid var(--shadow-color);
+    border-bottom: 2px solid var(--shadow-color);
 }
 
 .section-col {

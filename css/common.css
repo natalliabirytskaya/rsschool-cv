@@ -22,7 +22,7 @@ a:focus {
 /* variables */
 
 :root {
-    --font-main: "roboto", sans-serif;
+    --font-main: "roboto", Helvetica, sans-serif;
     --color-white: #FFFFFF;
     --color-black: #2e3841;
     --color-blue: #2172d0;
@@ -69,6 +69,7 @@ html {
 
 .footer {
     text-align: center;
+    background-color: var(--shadow-color);
 }
 
 .flex-container {
